@@ -1,0 +1,18 @@
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elips_buton_olusturma.exe
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elips_buton_olusturma.pdb
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Form1.resources
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Properties.Resources.resources
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.exe
+D:\ornekler\C#_net\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.pdb
+C:\Users\hasan\Desktop\Yeni klasör\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.exe
+C:\Users\hasan\Desktop\Yeni klasör\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.pdb
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elips_buton_olusturma.exe
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elips_buton_olusturma.pdb
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Form1.resources
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Properties.Resources.resources
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.exe
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.pdb

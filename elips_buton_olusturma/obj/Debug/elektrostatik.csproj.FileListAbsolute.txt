@@ -1,0 +1,9 @@
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elektrostatik.exe
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elektrostatik.pdb
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Form1.resources
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elips_buton_olusturma.Properties.Resources.resources
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elektrostatik.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elektrostatik.exe
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elektrostatik.pdb
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\obj\Debug\elektrostatik.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\elips_buton_olusturma\elips_buton_olusturma\bin\Debug\elektrostatik.exe.config
